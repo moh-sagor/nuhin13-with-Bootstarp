@@ -1,0 +1,40 @@
+.play_button {
+	width: 130px;
+    height: 41px;
+    background: url(../img/buttons_v3.png) 0 0;
+    background-size : 299% 200%;
+    display: inline-block;
+
+}
+
+.play_button:hover {
+	background: url(../img/buttons_v3.png) 0 41px;
+	background-size : 299% 200%;
+}
+
+.itunes_button {
+	width: 128px;
+    height: 41px;
+    background: url(../img/buttons_v3.png) -129px 0;
+    background-size : 301% 200%;
+    display: inline-block;
+
+}
+.itunes_button:hover {
+	background: url(../img/buttons_v3.png) -129px 41px;
+	background-size : 301% 200%;
+}
+
+.github_button {
+    width: 130px;
+    height: 41px;
+    background: url(../img/buttons_v3.png) -258px 0;
+    background-size : 299% 200%;
+    display: inline-block;
+
+}
+
+.github_button:hover {
+    background: url(../img/buttons_v3.png) -258px 41px;
+    background-size : 299% 200%;
+}
