@@ -1,3 +1,17 @@
+.apple_button {
+	width: 130px;
+    height: 41px;
+    background: url(../img/buttons_v3.png) 259px 0;
+    background-size : 299% 200%;
+    display: inline-block;
+
+}
+
+.apple_button:hover {
+	background: url(../img/buttons_v3.png) 259px 41px;
+	background-size : 299% 200%;
+}
+
 .play_button {
 	width: 130px;
     height: 41px;
